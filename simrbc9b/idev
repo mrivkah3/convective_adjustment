@@ -1,1 +1,0 @@
-srun -N 2 -n 52 --account=b1094 --partition=ciera-std --time=24:00:00 --pty bash -1
