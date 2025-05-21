@@ -18,3 +18,4 @@ Numerical Analysis: experimented on how much I could increase the Rayleigh numbe
 * number of nodes used 
 * CFL parameters (i.e. time step)
  
+![Convective Figure](convectivefig.png)
