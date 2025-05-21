@@ -19,3 +19,4 @@ Numerical Analysis: experimented on how much I could increase the Rayleigh numbe
 * CFL parameters (i.e. time step)
  
 ![Convective Figure](convectivefig.png)
+Fig.1: The z-axis (vertical axis) represents the height in the domain, normalized to 1. The x-axis (horizontal axis) represents the buoyancy frequency squared (N2). Color-coded lines indicate the Rayleigh number, illustrating the impact of increasing Ra on the buoyancy profiles over time. This is a time averaged study from multiple simulations at a fixed position x=1. We note the large mixing disturbance for higher Ra.
