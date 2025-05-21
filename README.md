@@ -18,6 +18,10 @@
 * number of nodes used 
 * CFL parameters (i.e. time step)
 
+**Simulation Output:**
+[Watch the simulation video on Google Drive](https://drive.google.com/file/d/1zAbdlgiqk8T3GQ-I4Y2yTTrIPN0r6_iT/view?resourcekey)
+
+
 **Results at x=1:**
  
 ![Convective Figure](convectivefig.png)
